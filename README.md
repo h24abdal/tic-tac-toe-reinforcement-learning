@@ -20,6 +20,21 @@ against both random and perfect strategies.
 - `eval.py` – Evaluation logic
 - `notebooks/` – Experiments and training visualizations
 
+  tic-tac-toe-reinforcement-learning/
+│
+├── agents.py
+├── ttt_env.py
+├── train.py
+├── eval.py
+│
+├── notebooks/
+│   ├── test_random.ipynb
+│   └── plot_training.ipynb
+│
+├── README.md
+└── requirements.txt
+
+
 ## Authors
 - Abdalla Ali
 - Irat Younous  
